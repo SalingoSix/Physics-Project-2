@@ -1,0 +1,6 @@
+﻿  cBulletPhysicsWorld.cpp
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_02\bulletphysicslibrary\bullet\linearmath\btidebugdraw.h(169): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_02\bulletphysicslibrary\bullet\linearmath\btidebugdraw.h(170): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+c:\users\alexm\documents\game development - advanced programming 2017\physics and simulation 2\physics_assignment_02\bulletphysicslibrary\bullet\linearmath\btidebugdraw.h(171): warning C4305: 'argument': truncation from 'double' to 'const btScalar'
+     Creating library C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Physics and Simulation 2\Physics_Assignment_02\Debug\BulletPhysicsLibrary.lib and object C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Physics and Simulation 2\Physics_Assignment_02\Debug\BulletPhysicsLibrary.exp
+  BulletPhysicsLibrary.vcxproj -> C:\Users\alexm\Documents\Game Development - Advanced Programming 2017\Physics and Simulation 2\Physics_Assignment_02\Debug\BulletPhysicsLibrary.dll
